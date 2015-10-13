@@ -1,0 +1,40 @@
+# How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It showed what was the same in both files, and what was added (with a + sign) or
+deleted (with a - sign). I focused on the additions and deletions to locate where
+the change occurred.
+
+# How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Less guesswork in troubleshooting where something went wrong. See when a change occurred, or even who changed it.
+
+# What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+# vs having versions automatically saved, like Google Docs does?
+
+Cons include you might forget to save at the right time, so you'll have too many/too few versions.
+But cons of auto save include getting weird stopping points in the code. The computer can't tell
+when you've reached a logical stopping point. The pros of manual commits is that you are in control
+of knowing when to commit. And stopping at each logical change reminds me of Information Mapping,
+where each block focuses on one idea and you want to avoid blending more than 1 information type.
+
+# Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+# while others, like Google Docs, treat each file separately?
+
+Google Docs and Wikipedia seem like single-use files. They aren't dependent upon each other. But code
+files are often interrelated, so you make changes across multiple files. Git was a response to that
+problem of looking across several files at once.
+
+
+# How can you use the commands git log and git diff to view the history of files?
+
+Git Log allows you to see a summary of each commit, the related ID (serial code) and description of change.
+Git diff allows you to compare 2 commits and see the highlighted changes. Also, I like the git diff --stat
+option to see a high level summary of changes, not the detail of the actual changes.
+
+# How might using version control make you more confident to make changes that could break something?
+
+Because you can always go back and find your mistakes. And Git helps you see those changes, rather than having to search for hours. This makes you feel more confident to experiment and test code, and not feel you can't ever go back. You get to explore more, often a large space without worry.
+
+# Now that you have your workspace set up, what do you want to try using Git for?
+
+I'm most curious how Git can help with writing a novel. I would like to compare drafts of a chapter or scene to see how it was developed over time. In terms of actual coding, if I were to build a program, it would be great to follow where changes get made each time I make a commit.

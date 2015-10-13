@@ -1,0 +1,3 @@
+# What happens when you initialize a repository? Why do you need to do it?
+
+When you run "git init" you create the .git folder, which is normally a hidden folder. This sets up the repository you are in to have version control. But the first commit doesn't happen automatically, so you will need to create your first commit. You need to run "git init" in order to get version control in place.
