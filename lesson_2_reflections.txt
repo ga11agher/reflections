@@ -20,4 +20,8 @@ You can see where the master is, and where the experimental branches are.
 
 # What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The master and changes from the branch are incorporated together. It's represented as a fork in the diagram because the master can continue to change while you experiment with the branch. 
+The master and changes from the branch are incorporated together. It's represented as a fork in the diagram because the master can continue to change while you experiment with the branch.
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros include less steps for the user, but can overwrite or change something you didn't intend. Manually takes more time, but allows you to introduce human element to review and confirm changes.
