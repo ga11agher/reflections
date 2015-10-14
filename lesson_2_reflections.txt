@@ -5,3 +5,7 @@ When you run "git init" you create the .git folder, which is normally a hidden f
 # How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is where you put files ready to be commited. You might have a logical change to 3 files, and move those to staging. And then you might move 2 others for a commit at a later time. The value is that you don't have to commit all files in a repository at once. (Although, I thought all files are moved in a repository anyway, so why does it matter what's moved to staging?)
+
+# How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area to compare the file in there to your working directory, or to the repository commit to see what changes were made. If you see a lot of changes, you know you have too many in one commit.
