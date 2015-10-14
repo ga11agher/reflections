@@ -9,3 +9,7 @@ The staging area is where you put files ready to be commited. You might have a l
 # How can you use the staging area to make sure you have one commit per logical change?
 
 You can use the staging area to compare the file in there to your working directory, or to the repository commit to see what changes were made. If you see a lot of changes, you know you have too many in one commit.
+
+# What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to make an alternate version or experimental version of your code. They allow you to keep a stable copy of the standard code (i.e., master) while branching off and experimenting with new ideas.
