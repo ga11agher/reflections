@@ -38,3 +38,6 @@ Because you can always go back and find your mistakes. And Git helps you see tho
 # Now that you have your workspace set up, what do you want to try using Git for?
 
 I'm most curious how Git can help with writing a novel. I would like to compare drafts of a chapter or scene to see how it was developed over time. In terms of actual coding, if I were to build a program, it would be great to follow where changes get made each time I make a commit.
+
+with bug: 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+without bug: 71d52709ddc4066e7a79a1d0a412e43429a0cdeb

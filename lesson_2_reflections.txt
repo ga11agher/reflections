@@ -1,3 +1,7 @@
 # What happens when you initialize a repository? Why do you need to do it?
 
 When you run "git init" you create the .git folder, which is normally a hidden folder. This sets up the repository you are in to have version control. But the first commit doesn't happen automatically, so you will need to create your first commit. You need to run "git init" in order to get version control in place.
+
+# How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where you put files ready to be commited. You might have a logical change to 3 files, and move those to staging. And then you might move 2 others for a commit at a later time. The value is that you don't have to commit all files in a repository at once. (Although, I thought all files are moved in a repository anyway, so why does it matter what's moved to staging?)
