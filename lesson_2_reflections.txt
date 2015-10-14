@@ -17,3 +17,7 @@ If you want to make an alternate version or experimental version of your code. T
 # How do the diagrams help you visualize the branch structure?
 
 You can see where the master is, and where the experimental branches are.
+
+# What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The master and changes from the branch are incorporated together. It's represented as a fork in the diagram because the master can continue to change while you experiment with the branch. 
