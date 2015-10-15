@@ -5,3 +5,7 @@ To share work with others.
 # Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Again, so that you are in control. If Git were autotimed, you would end up with illogical versions. Manually, you can decide when to pull a change.
+
+# Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork happens only on GitHub. You can "clone" a repo on GitHub using "fork". This makes a copy of a repo on Github to another repo. A clone is copying a repo on your computer to another spot on your computer. A branch is within a repo - you have a commit (e..g, master), and you want to experiment on it, so you create a branch.
