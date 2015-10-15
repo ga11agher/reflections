@@ -9,3 +9,7 @@ Again, so that you are in control. If Git were autotimed, you would end up with 
 # Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork happens only on GitHub. You can "clone" a repo on GitHub using "fork". This makes a copy of a repo on Github to another repo. A clone is copying a repo on your computer to another spot on your computer. A branch is within a repo - you have a commit (e..g, master), and you want to experiment on it, so you create a branch.
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+YOu have the latest version?
