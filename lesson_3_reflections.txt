@@ -13,3 +13,7 @@ A fork happens only on GitHub. You can "clone" a repo on GitHub using "fork". Th
 # What is the benefit of having a copy of the last known state of the remote stored locally?
 
 YOu have the latest version?
+
+# How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Shared drive or SharePoint or Google Docs. Those are easier because they have a GUI, but you don't get the great capabilities of forking and merging, and version control. I HATE how people rename files with their initials of v2 or v3 or add the date. Just keep the file the same! This can occur if all users are on GitHub and know how to use the command line.
